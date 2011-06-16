@@ -12,4 +12,4 @@ Because Resty relies heavily on Objective-C blocks, it requires a minimum of iOS
 
 Resty is distributed as a static framework for iOS and Mac; this makes it easy to get up and running with Resty. Simply drop the framework into your project (like any other framework) and add the -ObjC and -all_load linker flags to your target. If your project builds, you should be ready to go.
 
-[Now go and read the documentation](http://projects.lukeredpath.co.uk/documentation.html).
+[Now go and read the documentation](http://projects.lukeredpath.co.uk/resty/documentation.html).
